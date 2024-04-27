@@ -1,2 +1,2 @@
 # PyTorch_Course
-My notebook following the PyTorch Course by Daniel Bourke (https://github.com/mrdbourke)
+My Python notebooks following the PyTorch Course by Daniel Bourke (https://github.com/mrdbourke)
